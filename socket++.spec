@@ -4,10 +4,10 @@ Version: 1.12.10
 Release: 1
 Copyright: Freely Distributable
 Group: Development/Libraries
-Source: http://www.hstraub.at/linux/downloads/src/%{name}-%{version}.tar.gz
+Source: http://src.linuxhacker.at/socket++/%{name}-%{version}.tar.gz
 Vendor: Gnanasekaran Swaminathan
-URL: http://members.aon.at/hstraub/linux/socket++/
-Packager: Herbert Straub <h.straub@aon.at>
+URL: http://www.linuxhacker.at/socketxx
+Packager: Herbert Straub <herbert@linuxhacker.at>
 BuildRequires: autoconf automake texinfo libtool info
 BuildRoot: %{_tmppath}/%{name}-root
 
